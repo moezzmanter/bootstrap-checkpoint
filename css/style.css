@@ -1,0 +1,82 @@
+body{
+    
+  
+}
+
+.red{
+    background-color: red;
+}
+
+.green{
+    background-color: green;
+    
+}
+
+.blue{
+    background-color: blue;
+}
+
+.yellow{
+    background-color: yellow;
+}
+
+
+.cool-title{
+    color: white;
+    font-family: cursive;
+    font-size: 25px;
+    font-weight: bold;
+    text-shadow: 1px 1px 5px black;
+    
+}
+
+
+.center-title{
+    width: max-content;
+    margin-left: auto;
+    margin-right: auto;
+  
+}
+
+
+.green p{
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    font-weight: bold;
+    background-color: green;
+    width: max-content;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    margin-top: 5px;
+}
+ 
+
+.box{
+   height:500px;
+
+}
+
+text{
+    background-color: blue;
+}
+
+
+
+.col-md-12{
+    background-color: blue;
+    height: 272px;
+    
+}   
+
+
+#empty1, #empty {
+    background-color: red;
+    height:200px;
+}
+
+
+
+.box{
+    height: 568px;
+}
